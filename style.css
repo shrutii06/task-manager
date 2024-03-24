@@ -3,14 +3,14 @@ body {
   color:#f3ecdb;
     margin: 0;
     padding: 0;
-    background-color: #f3ecdb;
+    background-color: #5f8489;
 }
 
 .container {
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #3e503c;
+    background-color: #042024;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -18,7 +18,7 @@ body {
 h1 {
     text-align: center;
     margin-bottom: 32px;
-    color:#fff;
+    color:#f3ecdb;
     font-size: 36px;
 }
 
@@ -34,7 +34,7 @@ button {
     padding: 10px 20px;
     border: none;
     border-radius: 0 5px 5px 0;
-    background-color: #7f886a;
+    background-color: #f5631e;
     color: #fff;
     cursor: pointer;
 }
