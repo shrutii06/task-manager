@@ -1,6 +1,6 @@
 body {
     font-family: Garamond, serif;
-  color:#f3ecdb;
+  color:#000;
     margin: 0;
     padding: 0;
     background-color: #ffffff;
@@ -40,9 +40,9 @@ button {
 }
 
 ul {
+    color:#f3ecdb;
     font-size:18px;
     text-transform: capitalize;
-    list-style-type: ;
     padding:20px;
   margin-bottom:20px;
   
